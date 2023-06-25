@@ -1,10 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Botnarenco
-    given-names: Daniel
-    orcid: https://orcid.org/0000-0000-0000-0000
-title: "GPT-API Evaluation
+- family-names: "Daniel"
+  given-names: "Botnarenco"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Large Language Models Evaluation"
 version: 1
 doi: 10.5281/zenodo.1234
-date-released: 2023-06-20
+date-released: 2023-06-18
+url: "https://github.com/Dani1232312/gpt-api-evaluation"
