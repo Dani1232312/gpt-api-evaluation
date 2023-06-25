@@ -3,8 +3,8 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: Botnarenco
     given-names: Daniel
-    orcid: https://orcid.org/1234-5678-9101-1121
+    orcid: https://orcid.org/0000-0000-0000-0000
 title: "GPT-API Evaluation
-version: 2.0.4
-doi: 
+version: 1
+doi: 10.5281/zenodo.1234
 date-released: 2023-06-20
