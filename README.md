@@ -15,6 +15,8 @@ numpy
 seaborn
 torch
 cuda
+### !! IMPORTANT !! 
+The BERT model cannot be run without CUDA!
 ## Steps Involved
 Import necessary libraries.
 Generate and plot the evaluation metrics.
